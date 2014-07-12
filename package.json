@@ -1,0 +1,24 @@
+{
+  "name": "country-extractor",
+  "version": "0.0.0",
+  "description": "Extract countries from a String",
+  "main": "country-extractor.js",
+  "dependencies": {
+    "name-extractor": "^1.0.3",
+    "country-count": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Björklund <david.bjorklund@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/well-knits/country-extractor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/well-knits/country-extractor/issues"
+  },
+  "homepage": "https://github.com/well-knits/country-extractor"
+}
