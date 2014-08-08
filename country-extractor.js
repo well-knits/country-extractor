@@ -8,7 +8,6 @@ var countryCount = require('country-count')
             return name.replace(/'s$/, '')
           })
           .map(function (name) {
-            console.log(name)
             return name.replace(/^[^A-Za-z\.]|,$/, '')
           })
 
