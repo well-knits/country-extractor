@@ -1,6 +1,6 @@
 {
   "name": "country-extractor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Extract countries from a String",
   "main": "country-extractor.js",
   "dependencies": {
